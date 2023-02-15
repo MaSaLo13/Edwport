@@ -1,38 +1,87 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+body {
+    background-color: #131313 !important;
   }
+
+/* Navbar */
+
+
+.navbar {
+  background-color: #9381FF;
+  margin-bottom: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* .a.navbar-brand {
+  margin-left: 20px;
+} */
+
+/* .navbar-nav {
+  background-color: #9381FF;
+} */
+
+.nav-item {
+  /* background-color: #9381FF; */
+  margin-left: 100px;
+  border-top: 50px;
+  border-color: #FFFFFF;
 }
 
-.App-link {
-  color: #61dafb;
+.me-auto.navbar-nav.nav-item a {
+  border-color: #FFFFFF;
+  border-width: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+/* nav.navbar.navbar-nav {
+  background-color: #9381FF;
+} */
+
+/*navbar*/
+/* .nav.nav-tabs {
+  margin-bottom: 20px;
+  background-color: #9381FF;
+} */
+
+
+/*navbar text ex: About*/
+.navbar-nav li a {
+  color:#FFFFFF;
+  border-color: #FFFFFF;
+  border-width: 1px;
 }
+
+.nav.nav-tabs li a:hover {
+  color: #9381FF;
+}
+
+.nav.nav-tabs li a.nav-link.active {
+  color: #9381FF;
+}
+
+
+/*footer*/
+
+#foot {
+  background-color: #9381FF;
+  margin-top: 20px;
+}
+
+.footerbtn {
+  font-size: 2.1rem;
+  color: #FFFFFF;
+}
+
+.footerbtn2 {
+  font-size: 2.1rem;
+  color: #FFFFFF;
+  margin-left: 20px;
+}
+
+.footerbtn:hover {
+  color: #131313;
+}
+
+.footerbtn2:hover {
+  color: #131313;
+}
+
+/* added comment in order to update repo */
