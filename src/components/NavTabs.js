@@ -10,7 +10,7 @@ export default function NavTabs({ currentPage, handlePageChange }) {
 
     <Navbar collapseOnSelect expand="lg" variant="dark">
       <Container>
-        <Navbar.Brand fluid style={{ paddingLeft: 20}} href="#about">Marvin Santiago Lopez</Navbar.Brand>
+        <Navbar.Brand fluid style={{ paddingLeft: 20}} href="#about">Edwin Santiago Lopez</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav"> <iconify-icon icon="akar-icons:three-line-horizontal" height="30px"></iconify-icon> </Navbar.Toggle>
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
@@ -29,7 +29,7 @@ export default function NavTabs({ currentPage, handlePageChange }) {
                 onClick={() => handlePageChange('Projects')}
                 className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
               >
-                Projects
+                SLO
               </a>
             </li>
             <li className="nav-item">

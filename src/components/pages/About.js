@@ -23,7 +23,7 @@ export default function About() {
             <h1 className="display-4 text-center text-lg-left text-light p-0-lg pt-4">
               Hello!</h1>
             <p className="text-light text-center text-md-left h3">
-            I'm Marvin Santiago, a full-stack web developer based in Los Angeles.
+            I'm Edwin Santiago, a senior at STEM Academy of Hollywood.
             </p>
         </Col>
       </Row>
@@ -34,13 +34,13 @@ export default function About() {
     <Container className="p-5 about">
       <h3>About Me</h3>
       <p>
-      Full Stack web developer with a background in Political Science and International Studies. Recently earned a certificate in full stack development from the Coding Boot Camp at UCLA Extension; developed new skills that include: HTML, CSS,  JavaScript, BootStrap, API’s, Node, Express, MySQL, MVC Paradigm, Sequilieze, React, MongoDB, and MERN Stack.
+      Academic pre-raphaelites conceptual art neo-geo deformalism academic, video game art street art gothic art color field painting cobra, manierism new objectivity minimalism jugendstil.
       </p>
       <p>
-      I applied HTML, CSS, handlebars.js Javascript and MySQL in a recent group project with 3 other people where we created a full stack website called Cream Finder that will help ice cream truck drivers with sharing their routes with users that enjoy ice cream.
+      Neo-geo manierism hudson river school idealism scuola romana incoherents neo-minimalism neoclassicism pointilism, art deco postmodern art young british artists dadaism der blaue reiter baroque de stijl.
       </p>
       <p>
-      I am excited to use my newly developed skills in a fast-paced and driven team to build websites that users will enjoy.
+      Carolingian lettrism geometric abstraction action painting new objectivity, superflat pre-raphaelites performance art ottonian young british artists, neoism romanesque abstract expressionism.
       </p>
     </Container>
     </Container>
