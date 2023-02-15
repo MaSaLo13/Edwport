@@ -1,12 +1,12 @@
 body {
-    background-color: #131313 !important;
+    background-color: #1E2952 !important;
   }
 
 /* Navbar */
 
 
 .navbar {
-  background-color: #9381FF;
+  background-color: #FFFFFF;
   margin-bottom: 10px;
 }
 
@@ -22,11 +22,11 @@ body {
   /* background-color: #9381FF; */
   margin-left: 100px;
   border-top: 50px;
-  border-color: #FFFFFF;
+  border-color: #000000;
 }
 
 .me-auto.navbar-nav.nav-item a {
-  border-color: #FFFFFF;
+  border-color: #000000;
   border-width: 5px;
 }
 
@@ -44,44 +44,44 @@ body {
 
 /*navbar text ex: About*/
 .navbar-nav li a {
-  color:#FFFFFF;
-  border-color: #FFFFFF;
+  color:#000000;
+  border-color: #000000;
   border-width: 1px;
 }
 
 .nav.nav-tabs li a:hover {
-  color: #9381FF;
+  color: #FFFFFF;
 }
 
 .nav.nav-tabs li a.nav-link.active {
-  color: #9381FF;
+  color: #FFFFFF;
 }
 
 
 /*footer*/
 
 #foot {
-  background-color: #9381FF;
+  background-color: #FFFFFF;
   margin-top: 20px;
 }
 
 .footerbtn {
   font-size: 2.1rem;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .footerbtn2 {
   font-size: 2.1rem;
-  color: #FFFFFF;
+  color: #000000;
   margin-left: 20px;
 }
 
 .footerbtn:hover {
-  color: #131313;
+  color: #1E2952;
 }
 
 .footerbtn2:hover {
-  color: #131313;
+  color: #1E2952;
 }
 
 /* added comment in order to update repo */
