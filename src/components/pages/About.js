@@ -14,10 +14,10 @@ export default function About() {
       <Row>
         <Col>
           <Image
-            src={require("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lfaAbFff_eFynCqRTUMDU1Ok2BEkEMCjuabsGTKhP0A2Ukue9zy_Fco_xCGg2aCSy1w&usqp=CAU")}
-            roundedCircle
-            width="350vw"
-            height="300vw"/>
+            src={require("../img/edwin.jpg")}
+            
+            width="450vw"
+            height="400vw"/>
         </Col>
         <Col>
             <h1 className="display-4 text-center text-lg-left text-dark p-0-lg pt-4">
