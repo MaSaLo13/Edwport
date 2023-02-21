@@ -2,7 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Skills from './comp/Skills';
+// import Skills from './comp/Skills';
 
 export default function Resume() {
   return (
@@ -16,7 +16,7 @@ export default function Resume() {
       </p>
       </Col>
       <Col>
-     <Skills/>
+     {/* <Skills/> */}
      </Col>
     </Row>
     </Container>

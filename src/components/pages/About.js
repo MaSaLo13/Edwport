@@ -14,7 +14,7 @@ export default function About() {
       <Row>
         <Col>
           <Image
-            src={require("../img/me2.jpg")}
+            src={require("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lfaAbFff_eFynCqRTUMDU1Ok2BEkEMCjuabsGTKhP0A2Ukue9zy_Fco_xCGg2aCSy1w&usqp=CAU")}
             roundedCircle
             width="350vw"
             height="300vw"/>
