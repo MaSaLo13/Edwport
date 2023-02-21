@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Edwin-Portfolio/static/css/main.fccc6840.css",
+    "main.js": "/Edwin-Portfolio/static/js/main.ecd5b84e.js",
+    "static/media/edwin.jpg": "/Edwin-Portfolio/static/media/edwin.d3f6a7e13f94e6381a52.jpg",
+    "index.html": "/Edwin-Portfolio/index.html",
+    "main.fccc6840.css.map": "/Edwin-Portfolio/static/css/main.fccc6840.css.map",
+    "main.ecd5b84e.js.map": "/Edwin-Portfolio/static/js/main.ecd5b84e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fccc6840.css",
+    "static/js/main.ecd5b84e.js"
+  ]
+}
